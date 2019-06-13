@@ -11,7 +11,7 @@ Missions:
 +2 OP for Capturing with Datatracker
 +1 OP for bringing beacon to DZ
 +3 OP for preventing capture of your own beacon
-+1 (2) for Classified
++1 (2) Classifieds
 
 Notes:  
 -Going second is a good strategic decision as it gives you a better chance
@@ -28,4 +28,11 @@ will also be useful as ways to chase down a runaway beacon.
 the requirement to bring the beacon back to the DZ.
 
 2. Hunting Party
++1 (2) Connect the Antennas
++2 Hunt down more specialists
++3 Hunt down the same amount of Lts
++4 Hunt down more Lts
++1 (2) Classifieds
 
+Notes:
+-
